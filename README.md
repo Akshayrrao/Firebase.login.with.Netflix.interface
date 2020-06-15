@@ -24,8 +24,8 @@ Firebase login and register with cool netflix ui and with user feedback system
 
 ## Activity looks similar to:-
 
-
-![](img/1.jpg =100x20)
+![Alt text](img/home.png?raw=true "MainActivity")
+![Alt text](img/1.jpg=100x20)
 
 
 ## To connect Firebase to your Android application:-

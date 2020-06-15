@@ -24,7 +24,7 @@ Firebase login and register with cool netflix ui and with user feedback system
 
 ## Activity looks similar to:-
 
-![Alt text](img/home.png?raw=true "MainActivity")
+![Alt text](img/1.png?raw=true "MainActivity")
 ![Alt text](img/register.png?raw=true "Register")
 ![Alt text](img/login.png?raw=true "Login")
 ![Alt text](img/dashboard.png?raw=true "Dashboard")

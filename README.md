@@ -9,11 +9,31 @@ Firebase login and register with cool netflix ui and with user feedback system
   - Main Activity
   - Feedback Activity
   - About Activity
+  
+### Registration
+**** 
+Here the user register for the application using mail id which is authenticated using firebase.
 
+### Login
+**** 
+Here the Registered user is allowed to login to their account
+authenticated using firebase.
+
+### Main Layout
+****
+Here the user can add any activity whaterer they need.
+
+### Feedback
+****
+Here the user can send the feedback about the app.
+which will be stored in firese bucket.
+
+### About
+****
+Here the user can view about the app details or developer Details
 
 ### Execution
  ****
- 
 - The Login and Registration process is by connecting to firebase.
 - The feedback is stored in firebase realtime database.
 

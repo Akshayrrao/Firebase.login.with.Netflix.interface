@@ -27,18 +27,18 @@ Firebase login and register with cool netflix ui and with user feedback system
   </tr>
   <tr>
     <td><img src="img/welcome.png" width=270 height=480></td>
-    <td><img src="img/registration.png" width=270 height=480></td>
-    <td><img src="img/Login.png" width=270 height=480></td>
+    <td><img src="img/register.png" width=270 height=480></td>
+    <td><img src="img/login.png" width=270 height=480></td>
   </tr>
   <tr>
         <td>Main layout</td>
      <td>feedback Page</td>
-     <td> Options menu</td>
+     <td> about Page </td>
   </tr>
   <tr>
-    <td><img src="img/Chatbot.png" width=270 height=480></td>
+    <td><img src="img/main.png" width=270 height=480></td>
     <td><img src="img/feedback.png" width=270 height=480></td>
-    <td><img src="img/menu.png" width=270 height=480></td>
+    <td><img src="img/about.png" width=270 height=480></td>
   </tr>
  </table>
 
